@@ -33,7 +33,7 @@ def main():
 
 
 def draw():
-    print(hour)
+    print("Hello World!")
     surface.fill((200, 200, 200))
     draw_clock()
     pygame.display.flip()
